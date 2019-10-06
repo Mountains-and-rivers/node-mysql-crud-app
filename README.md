@@ -1,4 +1,4 @@
-SQL语句
+# SQL语句
 
 ```sql
 CREATE DATABASE socka;
@@ -13,3 +13,6 @@ CREATE TABLE IF NOT EXISTS `players` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1;
 ```
+# 效果
+
+![Image text](https://github.com/Mountains-and-rivers/react-antd-layout/blob/master/img-folder/dashborad.png)
