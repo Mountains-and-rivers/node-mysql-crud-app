@@ -15,4 +15,4 @@ CREATE TABLE IF NOT EXISTS `players` (
 ```
 # 效果
 
-![Image text](https://github.com/Mountains-and-rivers/react-antd-layout/blob/master/img-folder/dashborad.png)
+![Image text](https://raw.githubusercontent.com/Mountains-and-rivers/node-mysql-crud-app/master/result/b4c7a7e30d8835814c017d42279dcbf.png)
